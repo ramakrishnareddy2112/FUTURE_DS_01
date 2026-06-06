@@ -15,7 +15,7 @@ Businesses generate large volumes of sales data every day. Without proper analys
 
 ## Dataset
 
-Sample Superstore Dataset
+### Sample Superstore Dataset
 
 The dataset contains:
 
@@ -47,6 +47,15 @@ The dataset contains:
 7. Insight Generation
 8. Business Recommendations
 
+## Results Summary
+
+| Metric        | Result                     |
+| ------------- | -------------------------- |
+| Top Category  | Technology                 |
+| Top Region    | West                       |
+| Analysis Type | Business Sales Analytics   |
+| Tools Used    | Python, Pandas, Matplotlib |
+
 ## Key Insights
 
 * Technology emerged as the highest revenue-generating category.
@@ -56,24 +65,24 @@ The dataset contains:
 
 ## Business Recommendations
 
-* Increase investment in high-performing categories.
+* Increase investment in high-performing categories such as Technology.
 * Strengthen marketing efforts in top-performing regions.
-* Monitor monthly trends for better inventory planning.
-* Analyze successful products to replicate growth strategies.
+* Monitor monthly trends for better inventory planning and forecasting.
+* Analyze successful products and replicate winning sales strategies.
 
 ## Visualizations
 
 ### Category-wise Sales Analysis
 
-* category_sales.png
+![Category Sales](category_sales.png)
 
 ### Regional Sales Analysis
 
-* region_sales.png
+![Region Sales](region_sales.png)
 
 ### Monthly Sales Trend Analysis
 
-* monthly_sales.png
+![Monthly Sales](monthly_sales.png)
 
 ## Skills Demonstrated
 
@@ -101,4 +110,12 @@ Business-Sales-Performance-Analytics/
 
 ## Conclusion
 
-This project demonstrates how data analytics can transform raw sales data into meaningful business insights. Through exploratory analysis and visualization, key patterns in revenue, category performance, and regional sales were identified to support data-driven decision making.
+This project demonstrates how data analytics can transform raw sales data into meaningful business insights. Through exploratory analysis and visualization, key patterns in revenue, category performance, regional sales, and monthly trends were identified to support data-driven business decision-making.
+
+## Author
+
+**Pothamsetti Venkata Rama Krishna Reddy**
+
+Data Science Student | Aspiring Data Analyst | Machine Learning Enthusiast
+
+GitHub: https://github.com/ramakrishnareddy2112
